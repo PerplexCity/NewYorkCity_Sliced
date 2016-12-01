@@ -4,5 +4,5 @@ The project begins by using yelp_pizza.py(https://github.com/PerplexCity/NewYork
 
 Once the data is gathered it's put into [pizza_spots.csv](https://github.com/PerplexCity/NewYorkCity_Sliced/blob/master/pizza_spots.csv). This version has been cleaned of duplicates and restaurants with fewer than ten reviews.
 
-Finally, the graphs are made by feeding that data into [pizzza_graphs.R](https://github.com/PerplexCity/NewYorkCity_Sliced/blob/master/yelp_pizza.py)
+Finally, the graphs are made by feeding that data into [pizza_graphs.R](https://github.com/PerplexCity/NewYorkCity_Sliced/blob/master/pizza_graphs.R)
 
